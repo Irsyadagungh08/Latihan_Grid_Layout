@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="horizontal"
+    android:rowCount="3"
+    android:columnCount="4">
+
+    <TextView
+        android:text="A"
+        android:gravity="left|top"
+        android:textSize="30dp"
+        android:layout_margin="20dp"/>
+
+    <TextView
+        android:text="B"
+        android:gravity="left|top"
+        android:textSize="30dp"
+        android:layout_margin="20dp"/>
+
+    <TextView
+        android:text="C"
+        android:gravity="left|top"
+        android:textSize="30dp"
+        android:layout_margin="20dp"/>
+
+    <TextView
+        android:text="D"
+        android:gravity="left|top"
+        android:textSize="30dp"
+        android:layout_margin="20dp"/>
+
+    <TextView
+        android:text="E"
+        android:gravity="left|top"
+        android:textSize="30dp"
+        android:layout_margin="20dp"/>
+
+    <TextView
+        android:text="F"
+        android:gravity="left|top"
+        android:textSize="30dp"
+        android:layout_margin="20dp"/>
+
+    <TextView
+        android:text="G"
+        android:gravity="left|top"
+        android:textSize="30dp"
+        android:layout_margin="20dp"/>
+
+    <TextView
+        android:text="H"
+        android:gravity="left|top"
+        android:textSize="30dp"
+        android:layout_margin="20dp"/>
+
+    <TextView
+        android:text="I"
+        android:gravity="left|top"
+        android:textSize="30dp"
+        android:layout_margin="20dp"/>
+
+    <TextView
+        android:text="J"
+        android:gravity="left|top"
+        android:textSize="30dp"
+        android:layout_margin="20dp"/>
+
+    <TextView
+        android:text="K"
+        android:gravity="left|top"
+        android:textSize="30dp"
+        android:layout_margin="20dp"/>
+
+    <TextView
+        android:text="L"
+        android:gravity="left|top"
+        android:textSize="30dp"
+        android:layout_margin="20dp"/>
+</GridLayout>
